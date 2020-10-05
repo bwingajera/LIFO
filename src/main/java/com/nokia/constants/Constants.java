@@ -11,7 +11,7 @@ public interface Constants {
 	String STACK_SIZE1="size1";
 	String PING_REQUEEST="pingRequest";
 	
-	String MSG_STACK_DELETE="Element Remove Successfully";
+	String MSG_STACK_DELETE="Element Removed Successfully";
 	String MSG_STACK_UNDERFLOW="Stack Underflow";
 	
 	String BASE_PACKAGE="com.nokia";
