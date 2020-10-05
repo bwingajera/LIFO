@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  lifo:
+    image: lifo
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - /data/lifo
+    ports:
+      - "8081:8081"

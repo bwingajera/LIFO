@@ -1,0 +1,12 @@
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/dao/StackRepository.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/service/StackService.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/controller/StackController.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/utility/Stack.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/config/SwaggerConfig.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/model/Stack.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/lifo/ServletInitializer.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/service/StackServiceImpl.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/dao/StackOperationDao.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/constants/Constants.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/dto/StackOperationDaoImpl.java
+/home/sterlite/WORKSPACE/develop/Lifo/src/main/java/com/nokia/lifo/LifoApplication.java
